@@ -1,6 +1,10 @@
 body {
   background: linear-gradient(to top, white 0%, #b4d2f0 100%);
 }
+
+.logo {
+  margin-bottom: -20px;
+}
 .printer {
   display: block;
   margin: 0 auto;
